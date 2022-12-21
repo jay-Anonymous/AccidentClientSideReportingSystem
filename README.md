@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Accident Alert System
 &nbsp;
 > ## Introduction
@@ -66,4 +67,6 @@ Run following commands
 * SoftwareSerial mySerial(5,6) // 5 RX 6 TX
 * LED_Pin : 7
 * vibr_Pin : 3
+=======
+>>>>>>> 966c7b0 (first commit)
 # AccidentAlertSystem
