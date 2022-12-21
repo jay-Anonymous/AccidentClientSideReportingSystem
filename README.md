@@ -68,4 +68,7 @@ Run following commands
 # AccidentAlertSystem
 # AccidentDetectionSystem
 # AccidentDetectionSystem
+<<<<<<< HEAD
 >>>>>>> f7889bf (first commit)
+=======
+>>>>>>> main
